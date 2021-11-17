@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-suppasa/suppasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+suppasa/suppasa ✨ special ✨ repository because its `README.md` (this file) appears okyour GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
